@@ -1,0 +1,7 @@
+langchain
+langchain-classic
+wikipedia
+openai
+langchain-community
+langchain-core
+langchain-openai
