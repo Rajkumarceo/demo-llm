@@ -52,5 +52,5 @@ agent = create_tool_calling_agent(
 agent_executor = AgentExecutor(agent=agent, tools=[], verbose=True)
 
 # Invoke the agent executor
-raw_response = agent_executor.invoke({"query": "what is the capital of France?"})
+raw_response = agent_executor.invoke({"query": "add whatever statements you wanted to know"})
 print(raw_response)
